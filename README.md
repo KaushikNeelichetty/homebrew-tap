@@ -1,1 +1,1 @@
-# homebrew-tap
+# Kaushik's custom Homebrew formulas
